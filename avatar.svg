@@ -1,0 +1,33 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#38C5FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7B68EE;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="400" rx="60" fill="url(#bg)" />
+  
+  <!-- Glowing border -->
+  <rect x="10" y="10" width="380" height="380" rx="50" fill="none" stroke="url(#glow)" stroke-width="4" opacity="0.8" />
+  
+  <!-- Code bracket left -->
+  <text x="70" y="230" font-family="Fira Code, Consolas, monospace" font-size="120" font-weight="bold" fill="#38C5FF" opacity="0.3">&lt;</text>
+  
+  <!-- Main letter T -->
+  <text x="200" y="240" font-family="Fira Code, Consolas, monospace" font-size="180" font-weight="bold" fill="url(#glow)" text-anchor="middle">T</text>
+  
+  <!-- Code bracket right -->
+  <text x="330" y="230" font-family="Fira Code, Consolas, monospace" font-size="120" font-weight="bold" fill="#7B68EE" opacity="0.3">/&gt;</text>
+  
+  <!-- Subtle dot pattern -->
+  <circle cx="50" cy="50" r="4" fill="#38C5FF" opacity="0.5"/>
+  <circle cx="350" cy="350" r="4" fill="#7B68EE" opacity="0.5"/>
+  <circle cx="80" cy="350" r="3" fill="#38C5FF" opacity="0.3"/>
+  <circle cx="320" cy="80" r="3" fill="#7B68EE" opacity="0.3"/>
+</svg>
