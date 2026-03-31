@@ -15,14 +15,21 @@
 
 ### 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?go,docker,kubernetes,git,github,linux,mysql,postgres,redis,mongodb,python&perline=7&size=40" alt="tech stack" />
+</p>
 
-| **Languages** | **Tools** | **Databases** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?go=original&size=48" /> | <img src="https://skillicons.dev/icons?docker=original&kubernetes=original&git=original&github=original&linux=original&bash=original" /> | <img src="https://skillicons.dev/icons?mysql=original&postgres=original&redis=original&mongodb=original" /> |
-| Go, Python, Rust | Docker, K8s, Git, Linux | MySQL, PostgreSQL, Redis |
+<p align="center">
+  <b>Go</b> · <b>Python</b> · <b>Rust</b> · <b>Docker</b> · <b>K8s</b> · <b>MySQL</b> · <b>PostgreSQL</b> · <b>Redis</b>
+</p>
 
-</div>
+---
+
+### 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="quote" />
+</p>
 
 ---
 <p align="center">
