@@ -11,8 +11,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eleztian&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleztian&layout=donut&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eleztian&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleztian&layout=donut&theme=github_dark&hide_border=true&langs_count=6" height="150" alt="top-langs" />
 </p>
 
 ---
@@ -45,12 +45,6 @@
   <a href="https://github.com/eleztian/ZBShield">
     <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=ZBShield&theme=github_dark&hide_border=true" height="150" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eleztian&style=for-the-badge&color=38C5FF" alt="profile-views" />
 </p>
 
 ---
