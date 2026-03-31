@@ -1,51 +1,108 @@
-# Hi there, I'm Ztian Ele 👋
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eleztian&style=flat-square&color=green" alt="profile views">
-  <img src="https://img.shields.io/github/followers/eleztian?style=flat-square&color=green" alt="followers">
-  <img src="https://img.shields.io/github/stars/eleztian?style=flat-square&color=green" alt="stars">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=38C5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+the+Future+with+Go" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌟 About Me
+### 👋 Hi, I'm **Ztian Ele** (Tab)
 
-- 🔭 I’m currently working on **Go projects**
-- 🌱 Learning and building **Golang**, **DevOps**, **Security**
-- 👯 Looking to collaborate on **open source**
-- 💬 Ask me about **Go, ORM, Network, Security**
-- ⚡ Fun fact: **苟日新，日日新，又日新**
+<p align="center">
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourhandle">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eleztian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="http://eleztian.top">
+    <img src="https://img.shields.io/badge/Website-00D1B5?style=for-the-badge&logo=Home+Assistant&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eleztian&show_icons=true&theme=transparent&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleztian&layout=compact&theme=transparent&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eleztian&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleztian&layout=donut&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="top-langs" />
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?go=original&python=original&docker=original&linux=original&git=original&Mysql=original&postgresql=original" />
+<div align="center">
+
+| **Languages** | **Tools** | **Databases** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?go=original&size=48" /> | <img src="https://skillicons.dev/icons?docker=original&kubernetes=original&git=original&github=original&linux=original&bash=original" /> | <img src="https://skillicons.dev/icons?mysql=original&postgres=original&redis=original&mongodb=original" /> |
+| Go, Python, Rust | Docker, K8s, Git, Linux | MySQL, PostgreSQL, Redis |
+
+</div>
 
 ---
 
-### 📫 Contact
+### 📈 Activity Graph
 
-<p align="left">
-  <a href="http://eleztian.top">
-    <img src="https://img.shields.io/badge/-elize.black-white?style=flat-square&logo=Home%20Assistant&logoColor=white" alt="website" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eleztian&theme=github-dark&hide_border=true&color=38C5FF&lines=38C5FF" alt="activity graph" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/viz/?username=eleztian&theme=gruvbox&rank=S,AAA,AA,A&no-frame=true" alt="trophies" />
+</p>
+
+---
+
+### 💻 Recent Projects
+
+<p align="center">
+  <a href="https://github.com/eleztian/xorm">
+    <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=xorm&theme=github_dark&hide_border=true" height="150" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&logoColor=1DA1F2" alt="twitter" />
+  <a href="https://github.com/eleztian/gen">
+    <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=gen&theme=github_dark&hide_border=true" height="150" />
+  </a>
+  <a href="https://github.com/eleztian/go-xtables">
+    <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=go-xtables&theme=github_dark&hide_border=true" height="150" />
+  </a>
+  <a href="https://github.com/eleztian/ZBShield">
+    <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=ZBShield&theme=github_dark&hide_border=true" height="150" />
   </a>
 </p>
 
 ---
+
+### 📫 Connect With Me
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="quote" />
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/yourhandle">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/yourhandle">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eleztian&style=for-the-badge&color=38C5FF" alt="profile-views" />
+  <img src="https://badges.toeknee.io/成立2016" alt="since" />
+</p>
+
+---
+<p align="center">
+  <sub>⚡ 苟日新，日日新，又日新</sub>
 </p>
 
