@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=38C5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+the+Future+with+Go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=38C5FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Building+with+Go" alt="Typing SVG" />
 </p>
-
----
-
-### 👋 Hi, I'm **Ztian Ele** (Tab)
 
 ---
 
