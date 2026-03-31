@@ -7,17 +7,8 @@
 ### 👋 Hi, I'm **Ztian Ele** (Tab)
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourhandle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eleztian@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="http://eleztian.top">
-    <img src="https://img.shields.io/badge/Website-00D1B5?style=for-the-badge&logo=Home+Assistant&logoColor=white" />
+  <a href="https://github.com/eleztian">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -75,22 +66,6 @@
   </a>
   <a href="https://github.com/eleztian/ZBShield">
     <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=ZBShield&theme=github_dark&hide_border=true" height="150" />
-  </a>
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/yourhandle">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/yourhandle">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
