@@ -4,15 +4,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eleztian&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleztian&layout=donut&theme=github_dark&hide_border=true&langs_count=6" height="150" alt="top-langs" />
-</p>
-
----
-
 ### 🛠 Tech Stack
 
 <p align="center">
