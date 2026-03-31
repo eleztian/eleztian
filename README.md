@@ -4,15 +4,20 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?go,docker,kubernetes,git,github,linux,mysql,postgres,redis,mongodb,python&perline=7&size=40" alt="tech stack" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Go</b> · <b>Python</b> · <b>Rust</b> · <b>Docker</b> · <b>K8s</b> · <b>MySQL</b> · <b>PostgreSQL</b> · <b>Redis</b>
-</p>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
