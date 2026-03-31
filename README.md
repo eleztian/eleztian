@@ -6,12 +6,6 @@
 
 ### 👋 Hi, I'm **Ztian Ele** (Tab)
 
-<p align="center">
-  <a href="https://github.com/eleztian">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -36,22 +30,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eleztian&theme=github-dark&hide_border=true&color=38C5FF&lines=38C5FF" alt="activity graph" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/viz/?username=eleztian&theme=gruvbox&rank=S,AAA,AA,A&no-frame=true" alt="trophies" />
-</p>
-
----
-
 ### 💻 Recent Projects
 
 <p align="center">
@@ -73,7 +51,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eleztian&style=for-the-badge&color=38C5FF" alt="profile-views" />
-  <img src="https://badges.toeknee.io/成立2016" alt="since" />
 </p>
 
 ---
