@@ -29,25 +29,6 @@
 </div>
 
 ---
-
-### 💻 Recent Projects
-
-<p align="center">
-  <a href="https://github.com/eleztian/xorm">
-    <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=xorm&theme=github_dark&hide_border=true" height="150" />
-  </a>
-  <a href="https://github.com/eleztian/gen">
-    <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=gen&theme=github_dark&hide_border=true" height="150" />
-  </a>
-  <a href="https://github.com/eleztian/go-xtables">
-    <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=go-xtables&theme=github_dark&hide_border=true" height="150" />
-  </a>
-  <a href="https://github.com/eleztian/ZBShield">
-    <img src="https://github-readme-stats.vercel.app/pin/?username=eleztian&repo=ZBShield&theme=github_dark&hide_border=true" height="150" />
-  </a>
-</p>
-
----
 <p align="center">
   <sub>⚡ 苟日新，日日新，又日新</sub>
 </p>
